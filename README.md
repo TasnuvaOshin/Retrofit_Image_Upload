@@ -35,7 +35,7 @@ PHP CODE :
 
 ************************************
 EASY Way to upload image using retrofit 
-<img src="https://tasnuvaoshin.com/Screenshot_1579297053.png" width="480" height="600">
+<img src="https://tasnuvaoshin.com/Screenshot_1579297053.png" width="400" height="620">
 
 
 <?php
